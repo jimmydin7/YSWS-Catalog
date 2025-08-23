@@ -77,7 +77,7 @@ limitedTime:
   status: active
   deadline: '2025-08-15T23:59:59'
 - name: Authly
-  description: Build the weirdest and never-before-seen authentication system, get yubikeys, programmable nfc tags, antivirus giftcards and more!
+  description: Build the weirdest and never-before-seen authentication system, get yubikeys, vpn routers (GL-iNet), programmable nfc tags, antivirus giftcards and more!
   website: https://authly.hackclub.com
   slack: https://hackclub.slack.com/archives/C0963JU3CSD
   slackChannel: "#authly"
